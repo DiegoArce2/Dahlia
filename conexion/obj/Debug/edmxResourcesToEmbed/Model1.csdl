@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dahliaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Comandos">
+    <Key>
+      <PropertyRef Name="idComando" />
+    </Key>
+    <Property Name="idComando" Type="Int32" Nullable="false" />
+    <Property Name="Comando" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Respuesta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="dahliaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Comandos" EntityType="Self.Comandos" />
+  </EntityContainer>
+</Schema>

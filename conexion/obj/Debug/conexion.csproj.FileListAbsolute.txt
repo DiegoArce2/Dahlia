@@ -1,0 +1,11 @@
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\dahlia.mdf
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\dahlia_log.ldf
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\EntityFramework.dll
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\EntityFramework.xml
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\source\repos\Dahlia\conexion\obj\Debug\conexion.dll
+C:\Users\Diego\source\repos\Dahlia\conexion\obj\Debug\conexion.pdb
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\conexion.dll.config
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\conexion.dll
+C:\Users\Diego\source\repos\Dahlia\conexion\bin\Debug\conexion.pdb

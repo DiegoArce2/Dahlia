@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Biblioteca.Entidades">
+      <HintPath>..\Biblioteca.Entidades\bin\Debug\Biblioteca.Entidades.dll</HintPath>
+    </Reference>
     <Reference Include="busqueda">
       <HintPath>..\busqueda\bin\Debug\busqueda.exe</HintPath>
     </Reference>
@@ -118,6 +121,12 @@
     <Resource Include="comandos.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\conexion\conexion.csproj">
+      <Project>{39fdd02a-8d48-4972-9e7d-c03bbe48dd84}</Project>
+      <Name>conexion</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

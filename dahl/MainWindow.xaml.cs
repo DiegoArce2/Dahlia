@@ -17,6 +17,7 @@ using System.Speech.Synthesis;
 using System.IO;
 using busqueda;
 using System.Threading;
+using Biblioteca.Entidades;
 
 namespace dahl
 {
@@ -119,7 +120,18 @@ namespace dahl
                                 this.Close();
                             }else
                             {
-                               
+                                Biblioteca.Entidades.Comandos c = new Biblioteca.Entidades.Comandos();
+                                c.Comando = e.Result.Text;
+                                
+
+                                if (c.buscar()==true)
+                                {
+                                    hablar.SpeakAsync(c.Respuesta);
+                                }
+                                else
+                                {
+                                    hablar.SpeakAsync("Lo siento, no entiendo");
+                                }
                             }
                             
                         }
