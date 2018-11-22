@@ -1,0 +1,38 @@
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\bin\Debug\dahl.exe.config
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\bin\Debug\dahl.exe
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\bin\Debug\dahl.pdb
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\MainWindow.g.cs
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\App.g.cs
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl_MarkupCompile.cache
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl_MarkupCompile.lref
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\MainWindow.baml
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl.g.resources
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl.Properties.Resources.resources
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl.csproj.GenerateResource.Cache
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl.exe
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl.pdb
+c:\users\proyectospersonales\documents\visual studio 2015\Projects\dahl\dahl\obj\Debug\dahl.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\dahl.exe.config
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl.exe
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl.pdb
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\dahl.exe
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\dahl.pdb
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\MainWindow.g.cs
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\App.g.cs
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl_MarkupCompile.cache
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl_MarkupCompile.lref
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\MainWindow.baml
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl.g.resources
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl.Properties.Resources.resources
+C:\Users\Diego\Desktop\dahl\dahl\obj\Debug\dahl.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\MySql.Data.dll
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\MySql.Data.xml
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\busqueda.exe
+C:\Users\Diego\Desktop\dahl\dahl\bin\Debug\busqueda.pdb
+C:\Users\Diego\Desktop\dahl-20181122T185904Z-001\dahl\dahl\bin\Debug\dahl.exe.config
+C:\Users\Diego\Desktop\dahl-20181122T185904Z-001\dahl\dahl\obj\Debug\dahl.exe
+C:\Users\Diego\Desktop\dahl-20181122T185904Z-001\dahl\dahl\obj\Debug\dahl.pdb
+C:\Users\Diego\source\repos\Dahlia\dahl\bin\Debug\dahl.exe.config
+C:\Users\Diego\source\repos\Dahlia\dahl\obj\Debug\dahl.exe
+C:\Users\Diego\source\repos\Dahlia\dahl\obj\Debug\dahl.pdb

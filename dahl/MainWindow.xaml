@@ -1,0 +1,34 @@
+﻿<Window x:Class="dahl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dahl"
+        mc:Ignorable="d"
+        Title="Dahlia Asistant" Height="530" Width="886.5" ResizeMode="NoResize" WindowState="Maximized">
+    <Grid Margin="0,0,-6,-1">
+        <Button x:Name="activar" Content="Activar" HorizontalAlignment="Left" Margin="14,37,0,0" VerticalAlignment="Top" Width="48" Height="38" Click="activar_Click" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.496"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="lblEscuchar" Content="escucho" HorizontalAlignment="Left" Margin="130,36,0,0" VerticalAlignment="Top"/>
+        <MediaElement Name="ReproductorDePrueba"
+                      FlowDirection="LeftToRight" LoadedBehavior="Manual" Margin="77,47,124,2" RenderTransformOrigin="0.5,0.5">
+            <MediaElement.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.488"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </MediaElement.RenderTransform>
+        </MediaElement>
+    </Grid>
+
+</Window>

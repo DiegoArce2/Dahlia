@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\dahl\busqueda\bin\Debug\busqueda.exe.config
+C:\Users\Diego\Desktop\dahl\busqueda\bin\Debug\busqueda.exe
+C:\Users\Diego\Desktop\dahl\busqueda\bin\Debug\busqueda.pdb
+C:\Users\Diego\Desktop\dahl\busqueda\obj\Debug\busqueda.Properties.Resources.resources
+C:\Users\Diego\Desktop\dahl\busqueda\obj\Debug\busqueda.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\dahl\busqueda\obj\Debug\busqueda.exe
+C:\Users\Diego\Desktop\dahl\busqueda\obj\Debug\busqueda.pdb

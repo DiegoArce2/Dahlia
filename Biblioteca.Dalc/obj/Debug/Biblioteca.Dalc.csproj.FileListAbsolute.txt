@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\bin\Debug\Biblioteca.Dalc.dll.config
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\bin\Debug\Biblioteca.Dalc.dll
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\bin\Debug\Biblioteca.Dalc.pdb
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\bin\Debug\MySql.Data.dll
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\bin\Debug\MySql.Data.xml
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\obj\Debug\Biblioteca.Dalc.dll
+C:\Users\Diego\Desktop\dahl\Biblioteca.Dalc\obj\Debug\Biblioteca.Dalc.pdb
